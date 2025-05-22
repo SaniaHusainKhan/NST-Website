@@ -261,7 +261,7 @@ body {
 
 /* Subscribe Section */
 .subscribe {
-    background: url(../images/newsec.jpg) no-repeat bottom center/cover;
+    background: url(newsec.jpg) no-repeat bottom center/cover;
 }
 
 .subscribe_container {
